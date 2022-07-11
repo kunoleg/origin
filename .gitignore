@@ -1,0 +1,8 @@
+# игнор файлов в подкаталоге
+tmp/
+# игнор файлов, заканчивающихся на суффиксы _old, _backup
+*_old
+*_backup
+# игнор файлов Thumbs.db и .DS_Store
+Thumbs.db
+.DS_Store
